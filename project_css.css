@@ -237,24 +237,24 @@ nav{
 }
 
 .boot{
-    width: 375px;
-    max-width: 120%;
+    width: 345px;
     height: auto;
-    border-radius: 20px;
+    margin-left: -56px;
+    padding: 15px;
 }
 
 .paden_prul{
-    width: 375px;
-    margin-left: -56px;
+    width: 345px;
     height: auto;
-    border-radius: 20px;
+    margin-left: -56px;
+    padding: 15px;
 }
 
 .boef{
-    width: 375px;
+    width: 345px;
     height: auto;
-    border-radius: 20px;
     margin-left: -56px;
+    padding: 15px;
 }
 
 .graffiti{
@@ -265,15 +265,15 @@ nav{
 }
 
 .lampjes{
-    width: 375px;
-    margin-left: -56px;
+    width: 345px;
     height: auto;
-    border-radius: 20px;
+    margin-left: -56px;
+    padding: 15px;
 }
 
 .ingang{
-    width: 375px;
-    margin-left: -56px;
+    width: 345px;
     height: auto;
-    border-radius: 20px;
+    margin-left: -56px;
+    padding: 15px;
 }

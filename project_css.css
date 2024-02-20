@@ -17,7 +17,7 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 1em;
     margin-right: 1em;
-    background-image: url(/Users/rutgercruijs/Desktop/herkansing_pr1/images/screenshot_voor_achtergrond.png);
+    background-image: url(./images/screenshot_voor_achtergrond.png);
 }
 
 h1{

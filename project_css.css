@@ -69,33 +69,29 @@ ul{
 }
 
 .link_1{
-    color: #DCC0A3;
+    color: black;
     text-decoration: none;
-    background-color: black;
     padding: 27px;
     font-weight: bold;
 }
 
 .link_2{
-    color: #DCC0A3;
+    color: black;
     text-decoration: none;
-    background-color: black;
     padding: 27px;
-    font-weight: bold;
+    font-weight: bold; 
 }
 
 .link_3{
-    color: #DCC0A3;
+    color: black;
     text-decoration: none;
-    background-color: black;
     padding: 27px;
     font-weight: bold;
 }
 
 .link_4{
-    color: #DCC0A3;
+    color: black;
     text-decoration: none;
-    background-color: black;
     padding: 27px;
     font-weight: bold;
 }

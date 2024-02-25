@@ -272,13 +272,6 @@ nav{
     height: auto;
     margin-left: -56px;
     padding: 15px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 1);
-}
-
-footer{
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
 }
 
 .menubalk_onderin{
@@ -309,4 +302,5 @@ footer{
     width: 100%;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
